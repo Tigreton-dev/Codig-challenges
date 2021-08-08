@@ -1,0 +1,17 @@
+{
+  "name": "Code-challenges",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "jest": {
+    "verbose": true
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
